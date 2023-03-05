@@ -1,0 +1,270 @@
+.banner-top{
+    width: 100% !important;
+    min-height: 500px;
+    background-image: url(../images/banner5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 20px;
+}
+.overlay{
+    position: absolute;
+    width: 100%; 
+    top:0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 500px !important;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-light{
+    background-color: transparent !important;
+}
+
+.container{
+    width: 960px !important;
+}
+
+.navbar-nav .nav-link{
+    color: #eee;
+}
+
+.navbar-nav .nav-link.active{
+    color: #b15e11;
+}
+.fa.fa-thumb-tack{
+    color: #f0a90f;
+    font-size: 18px;
+}
+.container .banner-middle .row .text{
+    display: flex;
+}
+.container .banner-middle .row .but{
+    background-color: rgba(250, 152, 15, 0.987);
+    border:  #b15e11;
+    width: 288px;
+    margin-top: 5px;
+}
+.banner-middle .row h1{
+  color: #eee;
+}
+.banner-middle .row p{
+    color: #fff;
+    margin-left: 100px; 
+}
+.widget{
+    background-color:  rgba(250, 152, 15, 0.987);
+    height: 350px;
+}
+.widget .butt{
+    border:blue;
+    background-color: rgb(7, 7, 29);
+    color: #eee;
+    margin-left: 60px;
+    
+
+}
+.widget .row img{
+    margin-top: 40px;
+}
+.widget .row p{
+    margin-top: 30px;
+    margin-left: 60px;
+    color: #eee
+}
+.widget .row h3{
+    margin-top: 30px;
+    margin-left: 60px;
+    color: #eee;
+}
+.blank .row h3{
+    text-align: center;
+    margin-top: 30px;
+}
+.blank{
+    text-align: center;
+}
+.focus .row .mag{
+    margin-left: 80px;
+
+}
+.focus .row .magi{
+    margin-right: 80px;
+    margin-bottom: 10px;
+}
+.focus .row .magi2{
+margin-right: 100%;
+}
+.staff .row h3{
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+.stafflist{
+    text-align: center; 
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+
+
+}
+.stafflist .joint{
+ border: 1px solid rgb(11, 32, 70);
+ background-color: rgb(11, 32, 70);
+ color: #eee
+}
+
+.tour .row h3{
+    text-align: center;
+}
+.gallery{
+margin-left: 30px;
+ margin-right: 30px;
+ margin-bottom: 20px;
+ margin-top: 20px;
+}
+.gallery .row h5{
+ text-align: center
+ 
+}
+.gallery .gal{
+    border: 1px solid rgb(245, 165, 18);
+    background-color: rgb(245, 165, 18);
+    color: #eee
+}
+.gallary-2{
+ margin-left: 30px;
+ margin-right: 30px;
+ margin-bottom: 20px;
+ margin-top: 20px;
+}
+.gallary-2 h5{
+    text-align: center
+}
+.gallary-2 .gal{
+    border: 1px solid rgb(245, 165, 18);
+    background-color: rgb(245, 165, 18);
+    color: #eee
+}
+.toptour{
+background-color: mintcream;
+margin-right: 30px;
+margin-left:  30px;
+}
+.toptour h4{
+background: #fff;
+text-align: center;
+margin-top: 50px;
+}
+.toptour h6{
+  text-align: center
+}
+.client {
+background-color: rgb(250, 137, 9);
+height: 350px;
+margin-bottom: 100px;
+}
+.client .row h3{
+ text-align: center;
+ color: #eee;
+ margin-top: 50px;
+
+}
+.client .row p{
+    border: 1px solid rgb(9, 26, 58);
+    background-color: rgb(16, 16, 49);
+    color: rgb(175, 136, 89);
+    height: 155px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+ 
+
+}
+.client .row img{
+    margin-left: 369px;
+    margin-bottom: 60px;
+    height: 30px;
+    border-radius: 5px;
+}
+.client h6{
+    margin-bottom: 100px
+}
+.touch{
+height: 500px;
+
+}
+.touch .row .box-message{
+    height: 300px;
+    margin-right: 5px;
+    
+    
+}
+.touch form{
+    width: 50%;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.touch form label, input, textarea{
+display: block;
+width: 100%;
+color: rgb(250, 137, 9);
+}
+.touch form input, textarea{
+    height: 30px;
+    margin-bottom: 10px; 
+    border: none;
+    outline: none;
+    background-color:  #eee;
+    border-radius: 4px;
+    padding: 3px 6px;
+    margin-bottom: 20px;
+}
+ .touch form label{
+   margin-bottom: 5px;
+
+}
+.form textarea{
+    height: 200px;
+    resize: none;
+}
+
+ .touch form input [type="submit"]{
+    background-color:black;
+    color:#fac823;
+    text-transform: uppercase;
+    cursor: pointer;
+ }
+.touch h3{
+    text-align: center;
+}
+.touch .row{
+    text-align: center;
+}
+.map .row {
+    margin-top: 300px;
+    width: 800px;
+}
+.footer{
+    background-color: rgb(16, 16, 63);
+    height: 300px;
+    width: 1349px;
+
+}
+.footer .row h4{
+    text-align: center;
+    color: #eee;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.footer .row ul h5{
+    text-align: center;
+    color: #eee;
+}
+.footer .row ul  li a{
+    text-align: center;
+    color: #eee;
+}
